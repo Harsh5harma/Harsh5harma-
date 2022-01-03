@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
+
+
 -🌱 I’m currently learning: **C++**, **Data structures and algorithms** & **QT**
 
 - 🤝 I’m looking for help with: **C++**
