@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
-- 🌱 I’m currently learning: **C++, Data structures and algorithms & QT**
+-🌱 I’m currently learning: **C++**, **Data structures and algorithms** & **QT**
 
 - 🤝 I’m looking for help with: **C++**
 
@@ -8,6 +8,8 @@
 - 📫 How to reach me : **[E-mail](ilove24cookies@gmail.com)**
 
 - ⚡ Fun fact : **I'm extremely interested in Space Exploration.**
+
+- 😄 Pronouns: **He/Him**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
