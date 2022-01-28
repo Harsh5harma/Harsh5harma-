@@ -22,7 +22,7 @@
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=Harsh5harma&show_icons=true&theme=tokyonight)
 
-![Snake animation](https://github.com/yasssuz/yasssuz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Harsh5harma/Harsh5harma/blob/output/github-contribution-grid-snake.svg)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh5harma&langs_count=8)](https://github.com/Harsh5harma)
 
