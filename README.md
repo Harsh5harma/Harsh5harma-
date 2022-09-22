@@ -25,5 +25,3 @@
 ![Snake animation](https://github.com/Harsh5harma/Harsh5harma/blob/output/github-contribution-grid-snake.svg)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh5harma&langs_count=8)](https://github.com/Harsh5harma)
-
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harsh5harma)](https://github.com/Harsh5harma)
