@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
 
+[![wakatime](https://wakatime.com/badge/user/55fdc17c-9a90-4ab6-a0e2-7b565c2ee696.svg)](https://wakatime.com/@55fdc17c-9a90-4ab6-a0e2-7b565c2ee696)
 
--🌱 I’m currently learning: **C++,CSS,HTML**, **Data structures and algorithms** & **Javascript**
+
+-🌱 I’m currently learning: **C++, CSS, HTML**, **Data structures and algorithms** & **Javascript**;
 
 - 🤝 I’m looking for help with: **C++**
 
