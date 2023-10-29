@@ -9,7 +9,7 @@
 
 - 💬 Ask me about: **C++**
 
-- 📫 How to reach me : **[E-mail](ilove24cookies@gmail.com)**
+- 📫 How to reach me : **[E-mail](ilove24cookies@gmail.com)**, **Discord:** overlord_is_me
 
 - ⚡ Fun fact : **I'm extremely interested in Space Exploration.**
 
